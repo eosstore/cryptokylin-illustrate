@@ -4,7 +4,7 @@ CryptoKylin Testnet为EOS开发者提供一个仿真的链上测试环境，由C
 
 CryptoKylin Group由多家BP（EOS超级节点）的核心技术成员组成，我们都参与并见证了EOS主链的启动，对EOS启动相关流程、BP节点架构、网络安全、智能合约、区块链浏览器、EOS钱包都有较深入的研究，Group成员将在如下几个技术方向深入并贡献代码：系统合约定制、侧链（跨链）技术、高性能网络实现、IPFS存储实现。
 
-[for ENGHLISH](README-EN.md)
+[FOR ENGLISH](README-EN.md)
 
 Trello: https://trello.com/b/u4cpl00f/cryptokylin
 
